@@ -2,4 +2,4 @@
 
 The autoregressive integrated moving average, an old school time series prediction method.
 
-<img src="https://github.com/Josh-Yi/ARIMA/pic.png" width=50% height=50%>
+<img src="https://github.com/Josh-Yi/ARIMA/blob/main/pic.png" width=50% height=50%>
